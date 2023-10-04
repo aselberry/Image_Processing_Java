@@ -1,6 +1,6 @@
 # Image_Processing_in_Java
 
-This is an Image Processing program built using Java to practice my knowledge on the topic of two-dimensional arrays. It is also considered as a final project for the Java Learning certification of the CodeAcademy course "Learn Java". You can see the certificate via this link:https://www.codecademy.com/profiles/object0080356722/certificates/d3f89367b558583e361640f778191345
+This is an Image Processing program built using Java to practice my programming skills. It is also considered as a final project for the Java Learning certification of the CodeAcademy course "Learn Java". You can see the certificate via this link:https://www.codecademy.com/profiles/object0080356722/certificates/d3f89367b558583e361640f778191345
 
 The program allows users to modify the image and create different types of colours, shapes and sizes. 
 
