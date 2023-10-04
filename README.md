@@ -26,7 +26,7 @@ You can find examples of the output files within this repository.
  - Java Random Library
  - Java ImageIO library
 
-# How to run?
+# How to run (Windows)?
 - Download the MyDay.java file
 - Open the Terminal
 - Go to the directory where the MyDay.java is located using cd
