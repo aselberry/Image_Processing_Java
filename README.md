@@ -18,7 +18,6 @@ The program allows users to modify the image and create different types of colou
 You can find examples of the output files within this repository.
 
 # Technologies used
- - Java
  - Java Color Library
  - Java BufferedImage Library
  - Java File Library
@@ -26,6 +25,13 @@ You can find examples of the output files within this repository.
  - Java Arrays Library
  - Java Random Library
  - Java ImageIO library
+
+# How to run?
+- Download the MyDay.java file
+- Open the Terminal
+- Go to the directory where the MyDay.java is located using cd
+- Press the command javac MyDay.java
+- Next, write the command java MyDay
 
 # Contribution
 Contributions are welcome! If you find any issues or have suggestions for improvements, please create a pull request or submit an issue.
