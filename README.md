@@ -5,7 +5,7 @@ This is an Image Processing program built using Java to practice my programming 
 The program allows users to modify the image and create different types of colours, shapes and sizes of the given image. 
 
 # Features
-1. Gets an image from the same directory where the Java program file is located
+1. Gets an image (Image should be indicated in the code lines - it can not be put as an input)
 2. After the first method execution, the program uploads a trimmed version of the original image to the same directory. Then, one by one, the following types of images are output/uploaded to the same directory:
   - Original Image with the NEGATIVE colour
   - Original Image with the STRETCHED shape
