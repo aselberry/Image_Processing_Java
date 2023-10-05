@@ -27,11 +27,11 @@ You can find examples of the output files within this repository.
  - Java ImageIO library
 
 # How to run (Windows)?
-- Download the MyDay.java file
+- Download the ImageProcessing.java file
 - Open the Terminal
-- Go to the directory where the MyDay.java is located using cd
-- Press the command javac MyDay.java
-- Next, write the command java MyDay
+- Go to the directory where the ImageProcessing.java is located using _cd_
+- Press the command _javac ImageProcessing.java_
+- Next, write the command _java ImageProcessing_
 
 # Contribution
 Contributions are welcome! If you find any issues or have suggestions for improvements, please create a pull request or submit an issue.
