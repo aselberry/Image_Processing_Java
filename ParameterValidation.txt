@@ -1,0 +1,29 @@
+public static boolean validateFlagFormat(String command, String flag) {
+        Scanner scanner = new Scanner(System.in);
+        if(command.equals("l")){
+            String[] lflags = {"-v", "-t", "-d", "-a", "-la", "-ld"};
+            Arrays.sort(lflags);
+            int index = Arrays.binarySearch(lflags, flag);
+            if(index >= 0){
+                return true;
+            }
+        }
+        if(command.equals("a")){
+            String[] lflags = {"-p", "-m"};
+            Arrays.sort(lflags);
+            int index = Arrays.binarySearch(lflags, flag);
+            if(index >= 0){
+                return true;
+            }
+        }
+
+        if(command.equals("d")){
+            String[] lflags = {"-p"};
+            Arrays.sort(lflags);
+            int index = Arrays.binarySearch(lflags, flag);
+            if(index >= 0){
+                return true;
+            }
+        }
+        return false;
+    }
